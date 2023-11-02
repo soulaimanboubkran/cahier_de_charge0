@@ -4,7 +4,7 @@
                                   Définition de notre projet 
 
 C'est un projet d’un site web e-commerce qui va admit les utilisateurs d’acheter les produits soit online ou payer comme cach en délivrée,  
-Le site web va admit les utilisateurs de poster leurs propres produits dans le site pour les vendre a autres. 
+Le site web va admit les utilisateurs de poster leurs propres produits dans le site pour les vendre aux autres. 
 
                                     Les propriétés de projet  
 
