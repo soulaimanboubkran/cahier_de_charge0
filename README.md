@@ -22,8 +22,8 @@ Le site web va admit les utilisateurs de poster leurs propres produits dans le s
 
 -> ranking products 
 
--> 
-                              Conception et Interface utilisateur 
+-> reviews on the product
+                            Conception et Interface utilisateur 
 
 -> Adaptabilité mobile : Précisez si le site doit être optimisé pour les appareils mobiles. 
 
@@ -38,5 +38,7 @@ Le site web va admit les utilisateurs de poster leurs propres produits dans le s
 -> Séparation des produits par catégorie et par user. 
 
 -> Intégration des animations.   
+
+-> confermaton page. 
 
  
