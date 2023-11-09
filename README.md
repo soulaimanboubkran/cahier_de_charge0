@@ -18,8 +18,11 @@ Le site web va admit les utilisateurs de poster leurs propres produits dans le s
 
 -> Tracke de produit pour le cach en délivrée  
 
--> Notification (par email) 
+-> Notification (par email)
 
+-> ranking products 
+
+-> 
                               Conception et Interface utilisateur 
 
 -> Adaptabilité mobile : Précisez si le site doit être optimisé pour les appareils mobiles. 
@@ -29,6 +32,8 @@ Le site web va admit les utilisateurs de poster leurs propres produits dans le s
 -> Recherche et navigation : Mettre en place une fonction de recherche robuste avec des filtres, des options de tri et des catégories pour aider les utilisateurs à trouver facilement des produits. 
 
 -> Panier d'achat : Permettre aux utilisateurs d'ajouter des articles à leur panier, de consulter le contenu du panier et de procéder au paiement. 
+
+-> sold with the time and if time gone the will return to origin price.
 
 -> Séparation des produits par catégorie et par user. 
 
